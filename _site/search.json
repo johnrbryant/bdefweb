@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "bdefweb",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "code.html",
-    "href": "code.html",
-    "title": "Code",
-    "section": "",
-    "text": "Add ‘bage’ code."
-  },
-  {
-    "objectID": "packages.html",
-    "href": "packages.html",
-    "title": "Packages",
-    "section": "",
-    "text": "You can download the packages used in Bayesian Demographic Estimation and Forecasting from the Stats New Zealand github repo.\nWe are, however, building a new suite of packages that are faster and more user-friendly. We suggest you take a look at bage."
-  },
-  {
     "objectID": "errata.html",
     "href": "errata.html",
     "title": "Errata",
@@ -103,5 +75,19 @@
     "title": "Errata",
     "section": "Chapter 18 Population in New Zealand",
     "text": "Chapter 18 Population in New Zealand\n\npage 231, first paragraph in Section 18.2.3. “only only” should be “only”.\npage 242, Table 18.4. For the rows “Immigration” and “Emigration”, the column “Region-time” should be “None”.\npage 244, first paragraph. “The standard deviations in the local level and local trend priors all have half-\\(t\\) priors with scale 0.05.” should be “The standard deviations in the time priors all have half-\\(t\\) priors with scale 0.05. The standard deviations in the region-time prior have half-\\(t\\) priors with scale 0.025.”\npage 245, third paragraph. “scale 0.025 for \\(\\sigma_{tran}\\)” should be “scale 0.1 for \\(\\sigma_{tran}\\)”.\npage 245, last two paragraphs. Should be just one sentence: “Our data model for admin address changes is similar to our model for transitions except that we use 1-year periods.”"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "Add ‘bage’ code."
+  },
+  {
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "Packages",
+    "section": "",
+    "text": "You can download the packages used in Bayesian Demographic Estimation and Forecasting from the Stats New Zealand github repo.\nWe are, however, building a new suite of packages that are faster and more user-friendly. We suggest you take a look at bage."
   }
 ]
