@@ -1,0 +1,7 @@
+---
+title: "Packages"
+---
+
+You can download the packages used in *Bayesian Demographic Estimation and Forecasting* from the [Stats New Zealand github repo](https://github.com/statisticsnz/).
+
+We are, however, building a new suite of packages that are faster and more user-friendly. We suggest you take a look at [bage](https://github.com/bayesiandemography/bage).

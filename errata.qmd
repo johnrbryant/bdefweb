@@ -1,0 +1,80 @@
+---
+title: "Errata"
+---
+
+## Chapter 3 Demographic Individuals
+
+-   **page 20, second paragraph** "1980-2000" should be "1980-2010".
+
+## Chapter 4 Demographic Arrays
+
+-   **page 27, Figure 4.2.** In panels (b) and (c), "1980-2000" should be "1980-2010".
+-   **page 29, Figure 4.4.** In panels (b) and (c), "1980-2000" should be "1980-2010".
+-   **page 30, Figure 4.5.** "1980-2000" should be "1980-2010".
+-   **page 31, Figure 4.6.** "1980-2000" should be "1980-2010".
+-   **page 31, Figure 4.7.** In panels (b) and (c), "1980-2000" should be "1980-2010".
+-   **page 32, Figure 4.8.** In panels (b) and (c), "1980-2000" should be "1980-2010".
+-   **page 33, second paragraph.** "1980-2000" should be "1980-2010".
+-   **page 34, Figure 4.10.** In panels (a) and (b), "1980-2000" should be "1980-2010".
+-   **page 35, fist paragraph.** "1980-2000" should be "1980-2010".
+-   **page 35, Figure 4.11.** In panels (a)-(c), "1980-2000" should be "1980-2010".
+-   **page 36, fist and second paragraphs.** "1980-2000" should be "1980-2010".
+-   **page 37, Figure 4.12.** In panels (a)-(c), "1980-2000" should be "1980-2010".
+-   **page 38, Figure 4.14.** In panels (a)-(c), "1980-2000" should be "1980-2010".
+-   **page 38, Figure 4.15.** In panels (a)-(c), "1980-2000" should be "1980-2010".
+
+## Chapter 4 Demographic Accounts\*\*
+
+-   **page 45, second to last paragraph.** "1980-2000" should be "1980-2010".
+-   **page 46, Figure 5.1.** In panel (b), "1980-2000" should be "1980-2010".
+-   **page 47, Figure 5.2.** In panels (b)-(f), "1980-2000" should be "1980-2010".
+-   **page 47, Figure 5.3.** In panels (a) and (b), "1980-2000" should be "1980-2010".
+-   **page 48, fourth paragraph.** In lines 3 and 4 above the accounting identity, "1980-2000" should be "1980-2010". In the second line of the accounting identity, "1980-2000" should be "1980-2010".
+-   **page 49, Figure 5.4.** In panels (b)-(e), "1980-2000" should be "1980-2010".
+-   **page 50, Figure 5.5.** In the caption for panel (a), "1980-2000" should be "1980-2010".
+-   **page 50, second paragraph.** "1980-2000" should be "1980-2010".
+-   **page 52, second paragraph.** In lines 3, 4, 6 and 7 of the accounting identity, "1980-2000" should be "1980-2010".
+
+## Chapter 8 Bayesian Model Specification
+
+-   **page 89, second to last paragraph.** In line 4, "dataset along" should be "dataset alone".
+
+## Chapter 9 Bayesian Inferences and Model Checking
+
+-   **page 98, caption for Table 9.1.** Words "for mortality rates" need to be added to the end.
+-   **page 100, last line of paragraph 2.** "proportion for draws" should be "proportion of draws"
+
+## Chapter 11 Infant Mortality in Sweden
+
+-   **page 124, second paragraph in Section 11.2.** "for eight selected counties" should be "for ten selected counties".
+-   **page 125, caption for Figure 11.2.** "for eight selected counties" should be "for ten selected counties". "1996-2015" should be "1995-2015".
+-   **page 126, second paragraph in Section 11.3.1.** $21\times20=420$ should be $21\times21=441$.
+-   **page 136, caption for Figure 11.11.** In the last line, "the slopes" should be "the variances of the slopes". 
+- **page 130, Figure 11.4.** Arrows should be drawn from $\delta_{t-1}$ to $\alpha_t$, rather than from $\delta_t$ to $\alpha_t$. 
+- **page 130, Equation 11.4** Should be $\alpha_t = \text{N}(\alpha_{t-1}
+    + \delta_{t-1}, \omega_{\alpha}^2)$, not $\alpha_t = \text{N}(\alpha_{t-1}
+    + \delta_t, \omega_{\alpha}^2)$.
+
+## Chapter 12 Life Expectancy in Portugal
+
+-   **page 143, first paragraph in Section 12.1.** "94-99" should be "95-99".
+
+## Chapter 14 Inferring Demographic Arrays from Unreliable Data
+
+-   **page 181, third paragraph in Section 14.1.** "Identical to the $\pmb{W}$ in Part IV" should be "Identical to the $\pmb{W}$ in Part III".
+
+## Chapter 15 Internal Migration in Iceland
+
+-   **page 189, last line.** "we we treat" should be "we treat".
+-   **page 195, fourth paragraph.** "Standard deviation terms for the age, age-sex, and time priors all have the same half-$t$ weakly informative priors, as does $\sigma$." should be "Standard deviation terms for the age and age-sex priors have a half-$t$ distribution with scale 1, as does $\sigma$. The standard deviation term for the time prior has a half-$t$ distribution with scale 0.05."
+-   **page 195, third to last line.** "Equation (15.5)" should be "Equation (15.4)".
+-   **page 198, fourth paragraph.** "an straight line" should be "a straight line".
+-   **page 200, third paragraph.** In the first line, "standard deviation$\sigma$" should be "standard deviation $\sigma$". In the second line, "Equation eq15.2" should be "Equation (15.2)".
+
+## Chapter 18 Population in New Zealand
+
+-   **page 231, first paragraph in Section 18.2.3.** "only only" should be "only".
+-   **page 242, Table 18.4.** For the rows "Immigration" and "Emigration", the column "Region-time" should be "None".
+-   **page 244, first paragraph.** "The standard deviations in the local level and local trend priors all have half-$t$ priors with scale 0.05." should be "The standard deviations in the time priors all have half-$t$ priors with scale 0.05. The standard deviations in the region-time prior have half-$t$ priors with scale 0.025."
+-   **page 245, third paragraph.** "scale 0.025 for $\sigma_{tran}$" should be "scale 0.1 for $\sigma_{tran}$".
+-   **page 245, last two paragraphs.** Should be just one sentence: "Our data model for admin address changes is similar to our model for transitions except that we use 1-year periods."

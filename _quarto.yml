@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "BDEF"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - packages.qmd
+      - code.qmd
+      - errata.qmd
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
